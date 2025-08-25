@@ -25,3 +25,33 @@ This repository contains a package for use with [Wallpaper Engine](https://store
 ---
 
 Enjoy your new wallpaper!
+
+
+# Project Timeline
+
+Below is a tentative timeline for the development of this Wallpaper Engine package project. Tasks are listed in no specific order and may be reprioritized as needed.
+
+## To Be Added
+
+- **Hidden GUI**
+  - Implement a graphical user interface (GUI) that remains hidden until a specific button is interacted with (e.g., hover to reveal, then click to show).
+  - Within the GUI, include options for:
+    - Color customization
+    - Size adjustment
+    - Shape selection
+
+- **Package Replication**
+  - Add the ability to replicate or clone the wallpaper package easily for different setups or themes.
+
+- **Multiple Wallpaper Space Options**
+  - Provide users with multiple ways to run or display the wallpaper, such as different layouts, screens, or interactive spaces.
+
+- **Mobile Support**
+  - Explore the possibility of extending compatibility or features to mobile devices.
+
+- **Donations**
+  - Integrate an option for users to support the project through donations.
+
+---
+
+*This list will be updated as the project evolves. Contributions and suggestions are welcome!*
