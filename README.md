@@ -1,4 +1,6 @@
-# Wallpaper Engine Package
+S# Wallpaper Engine Package
+
+![spacethemegif](https://github.com/user-attachments/assets/c3172907-f110-486f-baf7-3e9b8e68f82f)
 
 This repository contains a package for use with [Wallpaper Engine](https://store.steampowered.com/app/431960/Wallpaper_Engine/).
 
