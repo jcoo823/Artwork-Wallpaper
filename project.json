@@ -1,0 +1,166 @@
+{
+	"contentrating" : "Everyone",
+	"description" : "Update: Lib files local load\nUpdate: Now the shadow will change corresponding to your local time.\n\nThis is a work done by Takawo.\nopenprocessing:\nhttps://openprocessing.org/sketch/2259882/",
+	"file" : "index.html",
+	"general" : 
+	{
+		"properties" : 
+		{
+			"schemecolor" : 
+			{
+				"order" : 0,
+				"text" : "ui_browse_properties_scheme_color",
+				"type" : "color",
+				"value" : "0 0 0"
+			}
+		}
+	},
+	"preview" : "preview.jpg",
+	"ratingsex" : "none",
+	"ratingviolence" : "none",
+	"tags" : [ "Pixel art" ],
+	"title" : "Cement Waves",
+	"type" : "web",
+	"version" : 1,
+	"visibility" : "public",
+	"workshopid" : "3240665713",
+	"workshopurl" : "steam://url/CommunityFilePage/3240665713",
+	"properties" : 
+	{
+		"blockSize" : 
+		{
+			"order" : 1,
+			"text" : "Block Size",
+			"type" : "slider",
+			"value" : 30,
+			"min" : 20,
+			"max" : 100,
+			"step" : 5
+		},
+		"matteBorderWidth" : 
+		{
+			"order" : 2,
+			"text" : "Matte Border Width",
+			"type" : "slider",
+			"value" : 6,
+			"min" : 1,
+			"max" : 10,
+			"step" : 1
+		},
+		"gridMarginRatio" : 
+		{
+			"order" : 3,
+			"text" : "Grid Margin",
+			"type" : "slider",
+			"value" : 15,
+			"min" : 8,
+			"max" : 25,
+			"step" : 1
+		},
+		"totalShapes" : 
+		{
+			"order" : 4,
+			"text" : "Number of Shapes",
+			"type" : "slider",
+			"value" : 12,
+			"min" : 6,
+			"max" : 30,
+			"step" : 1
+		},
+		"shapeLayers" : 
+		{
+			"order" : 5,
+			"text" : "Shape Complexity",
+			"type" : "slider",
+			"value" : 2,
+			"min" : 1,
+			"max" : 6,
+			"step" : 1
+		},
+		"animationSpeed" : 
+		{
+			"order" : 6,
+			"text" : "Animation Speed",
+			"type" : "slider",
+			"value" : 800,
+			"min" : 200,
+			"max" : 1200,
+			"step" : 50
+		},
+		"rotationSteps" : 
+		{
+			"order" : 7,
+			"text" : "Rotation Variations",
+			"type" : "slider",
+			"value" : 4,
+			"min" : 2,
+			"max" : 8,
+			"step" : 1
+		},
+		"shadowBlur" : 
+		{
+			"order" : 8,
+			"text" : "Shadow Blur",
+			"type" : "slider",
+			"value" : 30,
+			"min" : 10,
+			"max" : 60,
+			"step" : 5
+		},
+		"shadowOpacity" : 
+		{
+			"order" : 9,
+			"text" : "Shadow Opacity",
+			"type" : "slider",
+			"value" : 10,
+			"min" : 5,
+			"max" : 25,
+			"step" : 1
+		},
+		"backgroundBrightness" : 
+		{
+			"order" : 10,
+			"text" : "Background Brightness",
+			"type" : "slider",
+			"value" : 80,
+			"min" : 40,
+			"max" : 100,
+			"step" : 5
+		},
+		"useRandomPalette" : 
+		{
+			"order" : 11,
+			"text" : "Random Color Palette",
+			"type" : "bool",
+			"value" : false
+		},
+		"forcePaletteIndex" : 
+		{
+			"order" : 12,
+			"text" : "Color Scheme",
+			"type" : "combo",
+			"value" : 0,
+			"options" : [
+				{ "label" : "Benedictus", "value" : 0 },
+				{ "label" : "Cross", "value" : 1 },
+				{ "label" : "Demuth", "value" : 2 },
+				{ "label" : "Hiroshige", "value" : 3 },
+				{ "label" : "Hokusai", "value" : 4 },
+				{ "label" : "Hokusai Blue", "value" : 5 },
+				{ "label" : "Java", "value" : 6 },
+				{ "label" : "Kandinsky", "value" : 7 },
+				{ "label" : "Monet", "value" : 8 },
+				{ "label" : "Nizami", "value" : 9 },
+				{ "label" : "Renoir", "value" : 10 },
+				{ "label" : "VanGogh", "value" : 11 },
+				{ "label" : "Mono", "value" : 12 },
+				{ "label" : "RiverSide", "value" : 13 },
+				{ "label" : "Cyberpunk", "value" : 14 },
+				{ "label" : "Sunset", "value" : 15 },
+				{ "label" : "Ocean", "value" : 16 },
+				{ "label" : "Forest", "value" : 17 }
+			],
+			"condition" : "useRandomPalette == false"
+		}
+	}
+}
